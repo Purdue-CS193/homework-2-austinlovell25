@@ -22,7 +22,7 @@ public class Questions {
     // Task 1
     public static int findMax(int[] input) {
         // find the max in the input array
-        // help
+        // help!
         int max = 0;
         for (int i = 0; i < input.length; i++) {
             if (input[i] > max) {
